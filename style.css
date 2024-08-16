@@ -1,0 +1,38 @@
+a { 
+    color: inherit;
+    text-decoration: inherit;
+}
+
+a:hover {
+    color: #b3c5eb
+}
+
+body {
+    background-color: #d8e4ed;
+}
+
+h1 {   
+    text-align:center;
+    color: #5b7f9b;
+    font-size:48px;
+}
+
+h2 {   
+    text-decoration: none;
+    text-align:center;
+    color: #5b7f9b;
+    font-size:32px;
+    font-family:'Noto Sans', sans-serif;
+}
+
+div {
+    text-align: center;
+    color: #5b7f9b;
+    font-size: 28px;
+    font-family:'Noto Sans', sans-serif;
+}
+
+p {
+    margin:0px;
+    padding:0px;
+}
